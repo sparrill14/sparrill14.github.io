@@ -1,0 +1,2 @@
+body{background-color:#b8bbb7}h1{user-select:none}.game-canvas{left:0;margin:auto;position:absolute;right:0}#game-canvas{background-color:#c4a484;border:5px solid #000;z-index:1}#obstacle-canvas{background-color:transparent;border:5px solid #000;pointer-events:none;z-index:2}
+/*# sourceMappingURL=main.css.map*/
